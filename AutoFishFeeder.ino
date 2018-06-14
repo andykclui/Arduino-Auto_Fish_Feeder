@@ -1,6 +1,6 @@
 // CONSTRUCTED'S Fish Feeder
 // http://www.instructables.com/member/Constructed/
-// Donate for more projects! 
+// 
 
 
 #include <Servo.h> 
